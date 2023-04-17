@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laiane</h1>
 <h3 align="center">A passionate Java Developer from Salvador, BA.</h3>
 
-- 📫 How to reach me **laianeltd@gmail.com**
+- 📫 Email: **laianeltd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
