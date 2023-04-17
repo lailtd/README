@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Laiane</h1>
-<h3 align="center">A passionate Java Developer from Salvador, BA.</h3>
+<h3 align="center">Java Developer Jr from Salvador, BA.</h3>
 
 - 📫 Email: **laianeltd@gmail.com**
+
+Welcome to my GitHub profile!
+
+I am a Junior Java Developer with a passion for building efficient and scalable applications. With a solid foundation in core Java concepts and object-oriented programming, I enjoy tackling complex problems and exploring new technologies.
+
+As a developer, I strive to write clean and maintainable code while following best practices and industry standards. I am always eager to learn and grow, and I am excited to be a part of the vibrant and dynamic community of developers on GitHub.
+
+Feel free to browse my repositories to see some of my recent projects and collaborations. If you have any questions or would like to connect, don't hesitate to reach out. Thanks for stopping by!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
